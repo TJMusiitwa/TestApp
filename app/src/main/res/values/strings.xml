@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="InternetSource">https://api.myjson.com/bins/a9eh1</string>
+</resources>
